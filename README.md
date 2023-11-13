@@ -8,11 +8,11 @@ This application allows a user to add a new squad, assign a hero to a squad, add
 
 ## Live Link
 ## Technologies Used
--Java
--Spark
--Handlebars
--Data Access Objects
--css
+- Java
+- Spark
+- Handlebars
+- Data Access Objects
+- css
 
 ## License
 (c) Hellen Omwano @2023
